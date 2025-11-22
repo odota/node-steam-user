@@ -55,5 +55,12 @@
 	},
 	"engines": {
 		"node": ">=14.0.0"
-	}
+	},
+	"main": "index.js",
+	"files": [
+		"components",
+		"resources",
+		"enums",
+		"protobufs/generated"
+	]
 }
