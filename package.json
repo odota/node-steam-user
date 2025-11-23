@@ -57,6 +57,7 @@
 		"node": ">=14.0.0"
 	},
 	"main": "index.js",
+	"types": "index.d.ts",
 	"files": [
 		"components",
 		"resources",
